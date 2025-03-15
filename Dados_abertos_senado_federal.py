@@ -1,6 +1,6 @@
-## Entre no site abaixo e escolha o que quer buscar
+## Enter the website below and choose what you want to search for.
 ## https://adm.senado.gov.br/adm-dadosabertos/swagger-ui/index.html?configUrl=/adm-dadosabertos/swagger-config.json#/
-## No exemplo abaixo estou buscando as despesas CEAPS
+## In the example below I am looking for CEAPS expenses.
 
 import requests
 import pandas as pd
