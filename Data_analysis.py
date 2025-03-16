@@ -1,4 +1,9 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import dash
+from dash import dcc, html, Input, Output
+import plotly.express as px
+import dash_table
 
 # Load your DataFrame, assuming it's already loaded into 'df'
 file_path = 'Final_Table.xlsx'
@@ -14,9 +19,6 @@ df['VALOR_REEMBOLSADO'] = pd.to_numeric(df['VALOR_REEMBOLSADO'], errors='coerce'
 # Check if any values became NaN during conversion
 missing_count = df['VALOR_REEMBOLSADO'].isnull().sum()
 print(f'Number of NaN values in VALOR_REEMBOLSADO after conversion: {missing_count}')
-
-import pandas as pd
-import matplotlib.pyplot as plt
 
 # Suppose 'df' is your DataFrame already loaded with the appropriate data
 # Ensure you've imported your data properly into a Pandas DataFrame named df
@@ -38,8 +40,6 @@ plot_scatter(df, 'TRIMESTRE', title='Quarterly Reimbursed Value')
 plot_scatter(df, 'BIMESTRE', title='Bimonthly Reimbursed Value')'
 '''
 '''
-import pandas as pd
-import matplotlib.pyplot as plt
 
 # Assuming 'df' is your DataFrame
 
@@ -62,11 +62,6 @@ def plot_line(df, time_column, title):
 # plot_line(df, 'TRIMESTRE', 'Quarterly Reimbursed Value by Year')
 plot_line(df, 'BIMESTRE', 'Bimonthly Reimbursed Value by Year')'
 '''
-
-import pandas as pd
-import dash
-from dash import dcc, html, Input, Output
-import plotly.express as px
 
 # Assuming 'df' is your DataFrame with columns 'SENADOR', 'MES', 'VALOR_REEMBOLSADO', and 'ANO'
 # Sample DataFrame setup if needed: df = pd.DataFrame({'SENADOR': [...], 'MES': [...], 'VALOR_REEMBOLSADO': [...], 'ANO': [...]})
@@ -117,10 +112,6 @@ if __name__ == '__main__':
     app.run_server(debug=True)
     
 '''
-import pandas as pd
-import dash
-from dash import dcc, html, Input, Output
-import dash_table
 
 # Example data setup, replace with your actual DataFrame
 # df = pd.DataFrame({
