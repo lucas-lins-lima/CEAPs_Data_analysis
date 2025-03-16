@@ -7,8 +7,10 @@ This project is in the area of ​​data science, and consists of 7 days of act
 
 First step: To download the CEAPS data, I created a file in Python that instructs how to download the tables in Excel. In this step, I will gather all the data by year and clean and transform the data. The results of the first stage are in the file "data_processed_cleaned" in binary file.
 
-Second step: Analysis of the data. They are in a Python file.
+Second step: Data analysis. They are in a Python file.
 
-Third step: Analysis of the data and results obtained.
+Third step: Data analysis and results obtained.
+
+I will leave my analysis below:
 
 Note: This document is updated with each new step of the project.
