@@ -75,4 +75,5 @@ De 2008 a 2025 o ranking top 10 das pessoas que declararam maiores valores de re
 
 
 Note: This document is updated with each new step of the project.
+
 Website with data: https://adm.senado.gov.br/adm-dadosabertos/swagger-ui/index.html?configUrl=/adm-dadosabertos/swagger-config.json#/
