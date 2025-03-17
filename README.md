@@ -76,7 +76,7 @@ Os gastos de reembolsos dos senadores declarados no CEAPS (Cota para o Exercíci
 ![Media_Gastos_Senadores_Mes](https://github.com/user-attachments/assets/1c48e34a-14c0-45e0-be05-159d1b8c124d)
 ![Media_Gastos_Senadores_Ano](https://github.com/user-attachments/assets/732b048c-1618-4553-beaa-0fbea14c003e)
 
-Gastos Anuais Acima do Padrão
+Gastos Anuais Acima do Padrão:
 Ao analisar os gastos de reembolsos por ano, alguns senadores se destacaram por estarem significativamente acima do padrão estabelecido:
 
 Randolfe Rodrigues: R$ 577.444,53
