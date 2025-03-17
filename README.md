@@ -107,6 +107,27 @@ No mês atual de 2025, até o momento, apenas Omar Aziz apresentou um gasto sign
 
 No mês anterior, 27 senadores excederam o valor esperado, enquanto em janeiro deste ano, 37 senadores ultrapassaram os padrões de gastos.
 
+Neste estudo foi possivel vizualisar predições importantes também, sendo uma delas a geral.
+![Previsão_Geral_2](https://github.com/user-attachments/assets/5c9fa0a8-1680-4f3b-be9b-b00b08a7b245)
+![Previsão_Geral_1](https://github.com/user-attachments/assets/03c1e3d8-9dd7-4cb2-a072-d5a54bc7d9b9)
+
+Para os senadores com os maiores números de reembolsos declarados a predição ficou no seguinte formato:
+
+1.Eduardo Amorim
+![EDUARDO AMORIM_forecast](https://github.com/user-attachments/assets/3db2f04e-7e44-4498-b644-ae99848b0958)
+
+2. Styvenson Valentim
+![STYVENSON VALENTIM_forecast](https://github.com/user-attachments/assets/7ae556be-5ac3-4ca2-9096-7e754812fa50)
+
+3. Davi Alcolumbre
+![DAVI ALCOLUMBRE_forecast](https://github.com/user-attachments/assets/a8ebb3db-7024-4190-9a9e-0725b4532f1e)
+
+4. Sérgio Petecão
+![SÉRGIO PETECÃO_forecast](https://github.com/user-attachments/assets/932def9f-ba80-4274-b805-2b238690d12e)
+
+5. Mozarildo Cavalcanti
+![MOZARILDO CAVALCANTI_forecast](https://github.com/user-attachments/assets/011dc68a-e5e7-4a5e-9798-ad8f7fd0b941)
+
 Note: This document is updated with each new step of the project.
 
 Website with data: https://adm.senado.gov.br/adm-dadosabertos/swagger-ui/index.html?configUrl=/adm-dadosabertos/swagger-config.json#/
