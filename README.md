@@ -89,7 +89,7 @@ Omar Aziz: R$ 543.456,52
 
 Esses números revelam discrepâncias consideráveis em relação à média anual, indicando a necessidade de uma análise detalhada sobre os motivos por trás de tais variações.
 
-Gastos do Último Mês do Ano Passado
+Gastos do Último Mês do Ano Passado:
 Considerando o último mês do ano passado, também observamos senadores com gastos significativamente superiores ao padrão:
 
 Styvenson Valentim: R$ 173.888,23
@@ -102,7 +102,7 @@ Fernando Farias: R$ 102.424,04
 
 Os valores destacados indicam um aumento expressivo nos gastos durante o último mês, comparados ao padrão mensal de R$ 25.000.
 
-Gastos no Ano de 2025
+Gastos no Ano de 2025:
 No mês atual de 2025, até o momento, apenas Omar Aziz apresentou um gasto significativamente acima do padrão, com um reembolso declarado de R$ 30.000.
 
 No mês anterior, 27 senadores excederam o valor esperado, enquanto em janeiro deste ano, 37 senadores ultrapassaram os padrões de gastos.
