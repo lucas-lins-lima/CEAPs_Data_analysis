@@ -72,7 +72,38 @@ De 2008 a 2025 o ranking top 10 das pessoas que declararam maiores valores de re
 10. Rose de Freitas
 ![Capturar 15](https://github.com/user-attachments/assets/21c6e5c6-460f-4b06-b5bf-e79a8db3b670)
 
+Os gastos de reembolsos dos senadores declarados no CEAPS (Cota para o Exercício da Atividade Parlamentar dos Senadores) têm gerado interesse por apresentar padrões anuais e mensais. Observa-se um padrão de gastos mensais em torno de R$ 25.000 e anuais de R$ 240.000.
+![Media_Gastos_Senadores_Mes](https://github.com/user-attachments/assets/1c48e34a-14c0-45e0-be05-159d1b8c124d)
+![Media_Gastos_Senadores_Ano](https://github.com/user-attachments/assets/732b048c-1618-4553-beaa-0fbea14c003e)
 
+Gastos Anuais Acima do Padrão
+Ao analisar os gastos de reembolsos por ano, alguns senadores se destacaram por estarem significativamente acima do padrão estabelecido:
+
+Randolfe Rodrigues: R$ 577.444,53
+Laércio Oliveira: R$ 564.225,53
+Alessandro Vieira: R$ 559.855,53
+Rogério Carvalho: R$ 559.672,23
+Omar Aziz: R$ 543.456,52
+![Capturar 1](https://github.com/user-attachments/assets/35237bf4-8611-45ab-ba47-a97ac49947fc)
+
+Esses números revelam discrepâncias consideráveis em relação à média anual, indicando a necessidade de uma análise detalhada sobre os motivos por trás de tais variações.
+
+Gastos do Último Mês do Ano Passado
+Considerando o último mês do ano passado, também observamos senadores com gastos significativamente superiores ao padrão:
+
+Styvenson Valentim: R$ 173.888,23
+Professora Dorinha Seabra: R$ 143.215,29
+Sérgio Petecão: R$ 139.707,45
+Marcio Bittar: R$ 108.971,54
+Fernando Farias: R$ 102.424,04
+![Capturar 2](https://github.com/user-attachments/assets/62c685bd-0c5e-490d-86fd-faab50f817a6)
+
+Os valores destacados indicam um aumento expressivo nos gastos durante o último mês, comparados ao padrão mensal de R$ 25.000.
+
+Gastos no Ano de 2025
+No mês atual de 2025, até o momento, apenas Omar Aziz apresentou um gasto significativamente acima do padrão, com um reembolso declarado de R$ 30.000.
+
+No mês anterior, 27 senadores excederam o valor esperado, enquanto em janeiro deste ano, 37 senadores ultrapassaram os padrões de gastos.
 
 Note: This document is updated with each new step of the project.
 
