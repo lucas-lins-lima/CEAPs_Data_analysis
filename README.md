@@ -128,6 +128,21 @@ Para os senadores com os maiores números de reembolsos declarados a predição 
 5. Mozarildo Cavalcanti
 ![MOZARILDO CAVALCANTI_forecast](https://github.com/user-attachments/assets/011dc68a-e5e7-4a5e-9798-ad8f7fd0b941)
 
+6. Angelo Coronel
+![ANGELO CORONEL_forecast](https://github.com/user-attachments/assets/b9b22858-dc72-4518-8a8c-3fdb671d6874)
+
+7. Mecias de jesus
+![MECIAS DE JESUS_forecast](https://github.com/user-attachments/assets/04d597ca-68b7-4577-9c4e-b3472aa92e9e)
+
+8. Paulo Paim
+![PAULO PAIM_forecast](https://github.com/user-attachments/assets/052031bd-e38e-4dde-a4cb-71f869a23142)
+
+9. Vanessa Grazziotin
+![VANESSA GRAZZIOTIN_forecast](https://github.com/user-attachments/assets/8ae5497b-b896-4e7c-ad75-5ff66060e8bc)
+
+10. Rose de Freitas
+![ROSE DE FREITAS_forecast](https://github.com/user-attachments/assets/dd16c900-66af-48d9-be1a-d0259030505e)
+
 Note: This document is updated with each new step of the project.
 
 Website with data: https://adm.senado.gov.br/adm-dadosabertos/swagger-ui/index.html?configUrl=/adm-dadosabertos/swagger-config.json#/
