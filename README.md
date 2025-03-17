@@ -84,6 +84,7 @@ Laércio Oliveira: R$ 564.225,53
 Alessandro Vieira: R$ 559.855,53
 Rogério Carvalho: R$ 559.672,23
 Omar Aziz: R$ 543.456,52
+
 ![Capturar 1](https://github.com/user-attachments/assets/35237bf4-8611-45ab-ba47-a97ac49947fc)
 
 Esses números revelam discrepâncias consideráveis em relação à média anual, indicando a necessidade de uma análise detalhada sobre os motivos por trás de tais variações.
@@ -96,6 +97,7 @@ Professora Dorinha Seabra: R$ 143.215,29
 Sérgio Petecão: R$ 139.707,45
 Marcio Bittar: R$ 108.971,54
 Fernando Farias: R$ 102.424,04
+
 ![Capturar 2](https://github.com/user-attachments/assets/62c685bd-0c5e-490d-86fd-faab50f817a6)
 
 Os valores destacados indicam um aumento expressivo nos gastos durante o último mês, comparados ao padrão mensal de R$ 25.000.
